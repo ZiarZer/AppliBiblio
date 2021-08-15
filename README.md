@@ -1,23 +1,23 @@
 # Idée
 ### Classes:
 - #### Livre:
- - Titre
- - Auteur
- - ISBN
- - Genre
- - Editeur
- - Date de parution
+  - Titre
+  - Auteur
+  - ISBN
+  - Genre
+  - Editeur
+  - Date de parution
 
 - #### Auteur:
- - Nom
- - Prénom
- - Date de naissance ?
+  - Nom
+  - Prénom
+  - Date de naissance ?
 
 - #### Genre:
- - faut mettre une liste des genre quelque part (pas obligé de faire une classe genre je pense, jsp)
+  - faut mettre une liste des genre quelque part (pas obligé de faire une classe genre je pense, jsp)
 
 - #### Éditeur:
- - Nom
+  - Nom
 
 - #### Bibliothèque
   - Liste de livres
